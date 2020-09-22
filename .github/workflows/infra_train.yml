@@ -2,7 +2,7 @@ name: Infra Deployment and Training
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master ] 
     paths: 
       - '.github/workflows/**'  
       - 'code/**'
