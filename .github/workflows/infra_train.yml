@@ -9,8 +9,8 @@ on:
       - 'infra/**'
  
 env:
-  AZURE_RESOURCE_GROUP: your-resource-group-name
-  STORAGE_ACCOUNT: storage-account-name
+  AZURE_RESOURCE_GROUP: tryazurerepo
+  STORAGE_ACCOUNT: tryazurestore
     
 jobs:
   deployment:
